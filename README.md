@@ -2,7 +2,7 @@
 
 ## Running a campaign on iTunes App Store
 
-As part of signup you will need to create a Search Ads account. Once you have an account you are ready to create campaigns.
+As part of [signup](https://developer.apple.com/app-store/search-ads/) you will need to create a Search Ads account. Once you have an account you are ready to create campaigns.
 
 1. Choose your app from the list of apps
 
