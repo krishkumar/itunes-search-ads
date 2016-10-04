@@ -26,6 +26,8 @@ As part of [signup](https://developer.apple.com/app-store/search-ads/) you will 
 
   Your CPT is now 40% of $2.50 = $1
 
+  You can setup budgets and cap daily spends per campaign.
+
 7. Additionally you can also set a CPA (cost per acquistion) goal. Read up on [CPA](https://en.wikipedia.org/wiki/Cost_per_action) here.
 
 ![Search Ads Bidding](/search-ads-bid.png)
@@ -53,5 +55,6 @@ Make sure you add a credit card to the Search Ads Account. Your campaign will be
 ![Search Ads Keywords](/search-ads-keywords.png)
 
 ## References
-* [WWDC 2016 Session 302](https://developer.apple.com/videos/play/wwdc2016/302/)
+* [Search Ads Help](http://searchads.apple.com/help/)
 * [Search Ads](https://app.searchads.apple.com/)
+* [WWDC 2016 Session 302](https://developer.apple.com/videos/play/wwdc2016/302/)
