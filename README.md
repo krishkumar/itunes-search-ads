@@ -54,6 +54,10 @@ Make sure you add a credit card to the Search Ads Account. Your campaign will be
 
 ![Search Ads Keywords](/search-ads-keywords.png)
 
+## Keyword bidding
+
+![Search Ads Keyword Bidding](/search-ads-keywords-bid.png)
+
 ## References
 * [Search Ads Help](http://searchads.apple.com/help/)
 * [Search Ads](https://app.searchads.apple.com/)
